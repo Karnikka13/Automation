@@ -1,0 +1,2 @@
+BatchId,AccountId,AccountInvoiceId,ConsumerId,PurgedComakerIds,PurgeType,PurgeStatus,RejectReason,RejectedDate,RequestedUserName
+"137","12","Inv12","1346075","null","ACCOUNT","R","Testing","1769538600000","tesuse",
