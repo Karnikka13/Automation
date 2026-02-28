@@ -1,0 +1,28 @@
+{
+  "testData": [
+    {
+      "testName": "Check Printing Filter Test - Valid Data",
+      "corporate": "20576 - Redtape",
+      "parent": "20003 - Prem Testing client1",
+      "clientParent": "1 - Mahitha1",
+      "trustPaymentDate": "2019-05-24",
+      "type": "ManualCheck"
+    },
+    {
+      "testName": "Check Printing Filter Test - Alternative Data",
+      "corporate": "20101 - Sathiya",
+      "parent": "20759 - Sri",
+      "clientParent": "2 - Prem Testing client1",
+      "trustPaymentDate": "2019-07-05",
+      "type": "OverPaymentCheck"
+    },
+    {
+      "testName": "Check Printing Filter Test - Third Option",
+      "corporate": "20681 - V35EG",
+      "parent": "46061 - Linking",
+      "clientParent": "12 - Manick Hero Exclusive",
+      "trustPaymentDate": "2019-10-19",
+      "type": "TrustCheck"
+    }
+  ]
+}

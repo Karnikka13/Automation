@@ -1,0 +1,17 @@
+{
+  "counties": [
+    {
+      "oldName": "Columbia",
+      "newName": "Pullman",
+      "newState": "California",
+      "newStatus": "inactive"
+    },
+
+    {
+      "oldName": "Pullman",
+      "newName": "Columbia",
+      "newState": "OK",
+      "newStatus": "active"
+    }
+  ]
+}

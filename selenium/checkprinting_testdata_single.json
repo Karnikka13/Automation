@@ -1,0 +1,11 @@
+{
+  "testScenario": {
+    "testCaseId": "TC001",
+    "description": "Filter with all criteria",
+    "corporate": "20576 - Redtape",
+    "parent": "20003 - Prem Testing client1",
+    "client": "1 - Mahitha1",
+    "trustPaymentDate": "2019-05-24",
+    "type": "ManualCheck"
+  }
+}

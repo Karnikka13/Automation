@@ -1,0 +1,43 @@
+{
+  "manualCheckData": [
+    {
+      "testName": "Manual Check - Client Type",
+      "checkFor": "Consumer",
+      "search": "Mahitha1",
+      "amount": "500.00",
+      "remark": "ManualCheck"
+    },
+    {
+      "testName": "Manual Check - Consumer Type",
+      "checkFor": "Client",
+      "search": "John Doe",
+      "amount": "789.99",
+      "remark": "Payment for services"
+    },
+    {
+      "testName": "Manual Check - Custom Type",
+      "checkFor": "Custom",
+      "account": "ACC-12345",
+      "custom1": "Custom Value 1",
+      "amount": "999.99",
+      "remark": "Custom payment",
+      "custom2": "Additional custom information for check"
+    },
+    {
+      "testName": "Manual Check - Client Type 2",
+      "checkFor": "Client",
+      "search": "Client Name ABC",
+      "amount": "1000.00",
+      "remark": "Invoice payment"
+    },
+    {
+      "testName": "Manual Check - Custom Type 2",
+      "checkFor": "Custom",
+      "account": "ACC-67890",
+      "custom1": "Another Custom",
+      "amount": "1001.88",
+      "remark": "Custom check 2",
+      "custom2": "Custom 2 details"
+    }
+  ]
+}

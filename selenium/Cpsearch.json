@@ -1,0 +1,16 @@
+{
+  "searchData": [
+    {
+      "testName": "Search Test 1 - Search by Client Name",
+      "searchQuery": "Prem Testing"
+    },
+    {
+      "testName": "Search Test 2 - Search by Amount",
+      "searchQuery": "10.00"
+    },
+    {
+      "testName": "Search Test 3 - Search by Check Type",
+      "searchQuery": "ManualCheck"
+    }
+  ]
+}

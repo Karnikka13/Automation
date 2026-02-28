@@ -1,0 +1,35 @@
+{
+  "employmentData":  {
+    "companyName": "manojj",
+    "websiteUrl": "https://www.globalmarketingservices.com",
+    "emailId": "info@globalmarketingservices.com",
+    "international": false,
+    "addressStatus": "Good",
+    "addressType": "Physical",
+    "address1": "456 Commerce Street",
+    "address2": "West Wing, 3rd Floor",
+    "city": "Miami",
+    "state": "Florida",
+    "zip": "33101",
+    "phone": "3055559876",
+    "allowed": false
+  },
+  "alternateEmploymentData": {
+    "companyName": "Raju",
+    "websiteUrl": "https://www.techsolutions.com",
+    "emailId": "contact@techsolutions.com",
+    "international": true,
+    "addressStatus": "Good",
+    "addressType": "Mailing",
+    "address1": "123 Tech Park Avenue",
+    "address2": "Building B, Floor 5",
+    "address3": "Suite 501",
+    "address4": "Near Central Square",
+    "locality": "Downtown",
+    "region": "Bay Area",
+    "postalcode": "94102",
+    "country": "United States",
+    "phone": "4155550123",
+    "allowed": true
+  }
+}

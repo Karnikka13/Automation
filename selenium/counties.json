@@ -1,0 +1,15 @@
+{
+  "counties": [
+    { "county": "Columbia", "state": "OL", "status": "active" },
+    { "county": "Pullman",  "state": "WA", "status": "inactive" },
+    { "county": "",  "state": "WA", "status": "active" },
+    { "county": " ",  "state": "WA", "status": "inactive" },
+    { "county": "Linn",  "state": "", "status": "active" },
+    { "county": "Pullman",  "state": " ", "status": "inactive" },
+    { "county": "&&",  "state": "OL", "status": "active" },
+    { "county": "Pullman",  "state": "**", "status": "inactive" },
+    { "county": "Linn",  "state": "", "status": "" },
+    { "county": "Linn",  "state": "", "status": " " }
+
+  ]
+}

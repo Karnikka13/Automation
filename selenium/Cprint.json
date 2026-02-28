@@ -1,0 +1,19 @@
+{
+  "printData": [
+    {
+      "testName": "Print Test 1 - DEV TEST 1 Template",
+      "templateReference": "DEV TEST 1",
+      "remark": "Printing checks for testing - Batch 1"
+    },
+    {
+      "testName": "Print Test 2 - DEV TEST Template",
+      "templateReference": "DEV TEST",
+      "remark": "Printing checks for testing - Batch 2"
+    },
+    {
+      "testName": "Print Test 3 - Test Template",
+      "templateReference": "test",
+      "remark": "Printing checks for testing - Batch 3"
+    }
+  ]
+}

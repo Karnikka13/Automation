@@ -1,0 +1,16 @@
+{
+  "searchData": [
+    {
+      "testName": "Completed Search Test 1",
+      "searchQuery": "red"
+    },
+    {
+      "testName": "Completed Search Test 2",
+      "searchQuery": "test"
+    },
+    {
+      "testName": "Completed Search Test 3",
+      "searchQuery": "check print"
+    }
+  ]
+}

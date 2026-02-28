@@ -1,0 +1,26 @@
+[
+  {
+    "sgs_key": "okokokkkks",
+    "sgs_value": "5",
+    "sgs_desc": "Maximum number of login attempts before account lockout",
+    "sgs_area": "Security",
+    "masked_required": "No",
+    "active": "Yes"
+  },
+  {
+    "sgs_key": "lkopkhkaksls",
+    "sgs_value": "5",
+    "sgs_desc": "Maximum number of login attempts before account lockout",
+    "sgs_area": "Security",
+    "masked_required": "Yes",
+    "active": "Yes"
+  },
+  {
+    "sgs_key": "mkjzhjkjjjks",
+    "sgs_value": "daily",
+    "sgs_desc": "Frequency of automated system backups",
+    "sgs_area": "Maintenance",
+    "masked_required": "No",
+    "active": "No"
+  }
+]
